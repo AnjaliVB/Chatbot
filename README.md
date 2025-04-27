@@ -8,4 +8,5 @@ The bot has a user interface through which the user asks/queries the bot and it 
 This bot is associated with a static website (dummy) showing information about a software company, which is developed using bootstrap.
 
 The backend is built using Python's NLTK module while its user interface is built using tkinter module of Python.<br>
-
+Converted the .py file to .exe file using pyinstaller tool.<br>
+Attached the .exe file to the website using **"webrun"**.
